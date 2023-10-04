@@ -1,0 +1,43 @@
+h1 {
+  color: black;
+}
+.container {
+  width: 500px;
+  height: 270px;
+  border: 1px solid black;
+  padding: 10px;
+  margin-left: 520px;
+}
+
+.big {
+  font-size: 60px;
+}
+sup {
+  position: relative;
+  top: -34px;
+  margin: 0px;
+}
+ul {
+  padding-left: 300px;
+  margin-top: -80px;
+}
+button {
+  color: white;
+  background-color: blue;
+  padding: 5px;
+  border-radius: 6px;
+}
+button:hover {
+  color: blue;
+  background-color: white;
+}
+.searchbox {
+  background-origin: content-box;
+  padding: 5px;
+  width: 400px;
+  box-shadow: 10px black;
+  border-radius: 20px;
+}
+.big:hover {
+  color: yellow;
+}
